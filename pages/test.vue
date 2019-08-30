@@ -22,7 +22,7 @@ export default {
 p {
   font-size: 24px;
   span {
-    color: red;
+    color: orange;
   }
 }
 </style>
