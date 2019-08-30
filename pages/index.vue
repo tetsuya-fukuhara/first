@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        first
+        first 1234
       </h1>
       <h2 class="subtitle">
         My scrumtrulescent Nuxt.js project
@@ -24,6 +24,7 @@
           GitHub
         </a>
       </div>
+      <p>test</p>
     </div>
   </div>
 </template>
@@ -38,7 +39,7 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss" scoped>
 .container {
   margin: 0 auto;
   min-height: 100vh;
